@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <title>Maria|Artesanais</title>
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@700&family=Archivo+Black&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <section style="text-align: center;">
+      <img src="https://i.imgur.com/Dtrc8bD.png" alt="Logo Da Marca" style="width:30%;">
+      <h1 style="color:DarkGreen;">MASSAS SECAS, RECHEADAS, LASANHAS E MOLHOS ARTESANAIS.</h1>
+      <p style="color:Darkred; font-family: 'Almarai', sans-serif; font-size: 20px;">Todas as massas e produtos são feitos com ingredientes selecionados pela qualidade e sabor. 100% artesanal.</p><hr>
+    </section> 
+  </header>
+
+  <section>
+  <h1 style="background-color:DarkGreen; width:10px; font-size: 25px;"><pre>  Menu:</pre></h1>
+  <p style="font-family: 'Almarai', sans-serif; font-size: 20px;">MASSAS SECAS (pacote 500g)</p>
+  <ol>
+    <li style="color:DarkGreen;"><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Fettuccine grosso:</p></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Massa artesanal de fio branca seca. Aproximadamente 0,8 cm de largura. Conteúdo da embalagem: 500g - serve de 5 a 6 pessoas.</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$38.00</p>
+    <img src="https://cdn0.casamentos.com.br/vendor/8736/3_2/960/jpg/img-6036_13_178736.jpeg" alt="Imagem Macarrão Fettuccine" style="width:20%;">
+    <li style="color:DarkGreen;"><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Papardelle:</p></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Massa artesanal. Aproximadamente 2,0 cm de largura. Conteúdo da embalagem: 200g - serve de 2 a 3 pessoas</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$21.00</p>
+    <img src="http://2.bp.blogspot.com/-oL3AEFeZvQM/UbDHWBobFLI/AAAAAAAABYY/xmwFigIa3qw/s1600/papardelle.jpg" alt="Imagem Papardelle" style="width:20%;"><br><br>
+  </ol>
+  <p style="font-family: 'Almarai', sans-serif; font-size: 20px;">MASSAS RECHEADAS (pacote 500g)</p>
+  <ol>
+    <li style="color:DarkGreen;"><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Capeletti de Carne:</p></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Massa artesanal congelada, recheada com carnes de boi, frango, e lombo. Contém 500g - serve 2 a 3 pessoas.</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$62.00</p>
+    <img src="https://pubimg.band.uol.com.br/files/9572963d1688454496db.png" alt="Imagem Capeletti de Carne" style="width:20%;">
+    <li style="color:DarkGreen;"><h2>Ravioli 4 Queijos:</h2></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Massa fresca artesanal com recheio de queijo mussarela, parmesão, provolone e requeijão. Contém 500g - serve 2 a 3 pessoas.</h2>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$59.70</p>
+    <img src="https://i0.wp.com/anamariabraga.globo.com/wp-content/uploads/2019/04/ravioli-molho-4-queijos-scaled.jpg?fit=2560%2C1707&ssl=1" alt="Imagem Ravioli 4 Queijos" style="width:20%;"><br><br>
+  </ol>
+  <p style="font-family: 'Almarai', sans-serif; font-size: 20px;">LASANHAS (1kg)</p>
+  <ol>
+    <li style="color:DarkGreen;"><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Lasanha Bolonhesa:</p></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Lasanha super leve, elaborada com massa artesanal, molho bolonhesa, queijo mussarela, queijo parmesão, molho bechamel e especiarias. Serve 2 a 3 pessoas.</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$ 124.40</p>
+    <img src="https://nextfoodcare.com.br/wp-content/uploads/2021/06/lasanha-3.jpg" alt="Imagem Lasanha Bolonhesa" style="width:20%;"><br><br>
+  </ol>
+  <p style="font-family: 'Almarai', sans-serif; font-size: 20px;">MOLHOS (vidro 500g)</p>
+  <ol>
+    <li style="color:DarkGreen;"><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Molho Parmesão:</p></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Molho de queijo parmesão, creme de leite fresco e especiarias.</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$ 56.85</p>
+    <li style="color:DarkGreen;"><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Molho Sugo:</p></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Molho artesanal feito com tomates selecionados cozidos com carne, legumes e especiarias por 6 horas.</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$ 52.50</p>
+    <li style="color:DarkGreen;"><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Caldo de Frango:</p></li>
+    <p style="color:DarkSlateGray;font-family: 'Almarai', sans-serif; font-size: 20px;">Caldo de frango enriquecido com legumes e especiarias. Ideal para um Capeletti in brodo, mas pode ser usado também para enriquecer suas receitas em casa.</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">R$28.00</p>
+  </ol>
+  </section>
+  
+  <section>
+    <br><h1 style="background-color:DarkGreen; width:10px;font-family: 'Almarai', sans-serif; color:DarkRed; font-size: 25px;"><pre>  Promoções:</pre></h1>
+    <p style="font-family: 'Almarai', sans-serif; font-size: 20px;">Tá sem ideia para combinar a massa com o molho? Fizemos isso por você. Escolha um kit abaixo e pague um valor promocional.</p>
+  <table style="width:700px; border-collapse: collapse; color:DarkGreen; font-family: 'Almarai', sans-serif; font-size: 25px;">
+    <tr>
+      <th style="border: 1px solid black;">Kit</th>
+      <th style="border: 1px solid black;">Massa(s)</th>
+      <th style="border: 1px solid black;">Molho(s)</th>
+      <th style="border: 1px solid black;">Preço</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;color:DarkGreen;">1</td>
+      <td style="border: 1px solid black;">1 Fettucine Grosso</td>
+      <td style="border: 1px solid black;">1 Molho Sugo</td>
+      <td style="border: 1px solid black;background-color:yellow;color:DarkRed;">R$79,99</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;color:DarkGreen;">2</td>
+      <td style="border: 1px solid black;">1 Papardelle</td>
+      <td style="border: 1px solid black;">1 Molho Parmesão</td>
+      <td style="border: 1px solid black;background-color:yellow;color:DarkRed;">R$69,99</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black;color:DarkGreen;">3</td>
+      <td style="border: 1px solid black;">1 Fettuccine grosso +1 Papardelle</td>
+      <td style="border: 1px solid black;">Caldo de Frango</td>
+      <td style="border: 1px solid black;background-color:yellow;color:DarkRed;">R$65,00</td>
+    </tr>
+  </table>
+  </section>
+  
+  <section>
+    <br><h1 style="background-color:DarkGreen; width:10px; font-size: 25px;"><pre>  Compre:</pre></h1>
+    <form style="color:DarkSlateGray; width:700px;font-family: 'Almarai', sans-serif;font-size: 25px;">
+      <fieldset>
+        <legend style="color:Black">Informações do Usuário</legend>
+          <label for="nome">Nome Completo:</label><br>
+          <input type="text" name="nome" size="30"><br>
+          <label for="correio">Email:</label><br>
+          <input type="email" name="correio" size="30"><br>
+          <label for="numero">Celular:</label><br> 
+          <input type="text" name="numero" size="30"><br>
+          <label for="endereço">Endereço:</label><br>
+          <input type="text" name="endereço" size="30"><br>
+      </fieldset>
+      <fieldset>
+        <legend style="color:Black">Carrinho de Compras</legend>
+        <p>Adcionar:<br><p>
+        <input type="checkbox" name="iten" value="fettuccine grosso" checked>Fettuccine grosso<br>
+        <input type="checkbox" name="iten" value="papardelle">Papardelle<br>
+        <input type="checkbox" name="iten" value="ravioli 4 queijos">Ravioli 4 Queijos<br>
+        <input type="checkbox" name="iten" value="lasanha bolonhesa background-color:yellow; width:180px;">Lasanha Bolonhesa<br>
+        <input type="checkbox" name="iten" value="molho parmesão">Molho Parmesão<br>
+        <input type="checkbox" name="iten" value="molho sugo">Molho Sugo<br>
+        <input type="checkbox" name="iten" value="caldo de frago">Caldo de Frango<br>
+        <input type="checkbox" name="iten" value="kit 1">Kit 1<br>
+        <input type="checkbox" name="iten" value="Kit 2">Kit 2<br>
+        <input type="checkbox" name="iten" value="Kit 3">Kit 3<br><br>
+        <label for="pagamento">Forma de Pagamento (apenas na entrega)</label><br>
+        <select name="pagamento">
+        <option value="pagamento1">Cartão de Crédito</option>
+        <option value="pagamento2">Cartão de Débito</option>
+        <option value="pagamento3">Pix</option>
+        <option value="pagamento4">Dinheiro</option>
+       </select><br>
+       <br> <input type="submit" value="Enviar">
+      </fieldset>
+    </form><br>
+  </section>
+
+  <section style="width: 100%; height: 100%; background: Silver; text-align: center;">
+  <br><p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Sobre Nós</p>
+  <p style="color:DarkGreen; font-family: 'Almarai', sans-serif; font-size: 18px;">
+  A MARIA Massas e Molhos Artesanais é uma empresa que nasceu da paixão pela culinária e da tradição familiar.</p>                                                                                                                                
+  <p style="color:DarkGreen; font-family: 'Almarai', sans-serif; font-size: 18px;">
+  Tudo começou com a querida avó Maria, cujas habilidades culinárias e receita secreta de massa e molho foram transmitidas de geração em geração.<br> 
+  Inspirados por essa herança, a família fundou o negócio em sua própria cozinha, produzindo massas e molhos artesanais feitos à mão com<br>
+  ingredientes frescos e muito amor.</p>
+  <p style="color:DarkGreen; font-family: 'Almarai', sans-serif; font-size: 18px;">
+  Inicialmente atendendo aos vizinhos e amigos, a empresa cresceu gradualmente devido à qualidade e autenticidade de seus produtos.</p>
+  <p style="color:DarkGreen; font-family: 'Almarai', sans-serif; font-size: 18px;">
+  Hoje, a MARIA Massas e Molhos Artesanais está presente em lojas locais e online, mas mantém seu compromisso com a tradição e a paixão 
+  de Maria.</p>
+  <p style="color:DarkGreen; font-family: 'Almarai', sans-serif; font-size: 18px;">
+  A missão da empresa é compartilhar essa herança culinária com o mundo,celebrando o amor e a conexão que a comida pode proporcionar.</p> 
+  <p style="color:DarkGreen; font-family: 'Almarai', sans-serif; font-size: 18px;">
+  Maria permanece no coração de tudo o que fazem, e cada prato é uma lembrança do passado, uma celebração do presente e uma promessa para o futuro.<br> 
+  Junte-se a eles nessa jornada gastronômica e descubra o amor em cada mordida.</p><br>
+  </section>
+  <section style="text-align: center; ">
+  <p style="font-family: 'Almarai', sans-serif; font-size: 22px;">Enriqueça sua Cultura </p>
+  <iframe width="728" height="384" src="https://www.youtube.com/embed/a4Ss_ZRXpE8" 
+  title="10 TIPOS DE MASSA FRESCA SEM NENHUM EQUIPAMENTO!" frameborder="0" allow="accelerometer; 
+  autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </section><hr>
+  <footer style="text-align: center;">
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">Contato:</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">(21) 4002-8922</p>
+    <p style="color:Darkred;font-family: 'Almarai', sans-serif; font-size: 18px;">contato@mariartesanais.com.br</p>
+  </footer>
+</body>
+</html>
